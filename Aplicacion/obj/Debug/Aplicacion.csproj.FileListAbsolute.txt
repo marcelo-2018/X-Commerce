@@ -1,0 +1,48 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb

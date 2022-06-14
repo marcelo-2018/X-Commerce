@@ -1,0 +1,24 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Marcelo\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.AssemblyReference.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tec Programacion\1er Año\Laboratorio 2 - 2020\N-Commerce 2020 - Mi Proyecto\N-Commerce Actual\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
